@@ -1,0 +1,28 @@
+/Library/
+/Temp/
+/obj
+/Build/
+/Builds/
+/Logs/
+/UserSettings/
+/UIElementsSchema/
+/Screenshots/
+
+# Visual Studio cache directory and configuration file
+.vs/
+.vsconfig
+
+# Project files
+*.csproj
+*.sln
+
+# Thus UNITY will not sue me :)
+/Assets/Fonts/
+/Assets/Fonts.meta
+/Assets/Sounds/
+/Assets/Sounds.meta
+/Assets/Sprites/
+/Assets/Sprites.meta
+
+# MacOS
+*.DS_Store
